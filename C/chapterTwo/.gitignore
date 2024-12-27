@@ -1,2 +1,5 @@
 ./.vscode/
 ./output/
+
+./inteirosVariacoes/build
+./inteirosVariacoes/output
