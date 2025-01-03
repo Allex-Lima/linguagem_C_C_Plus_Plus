@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/ESTUDO_C_C_PLUS_PLUS/C/chapterTwo/signed_e_unsigned",
-      "program": "d:/ESTUDO_C_C_PLUS_PLUS/C/chapterTwo/signed_e_unsigned/build/Debug/outDebug",
+      "cwd": "d:/ESTUDO_C_C_PLUS_PLUS/C/chapterTwo/float_double",
+      "program": "d:/ESTUDO_C_C_PLUS_PLUS/C/chapterTwo/float_double/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
